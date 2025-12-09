@@ -13,6 +13,7 @@ This collection of notebooks explores **multivariable calculus and vector analys
 $$\nabla f(x,y) = \left( \frac{\partial f}{\partial x}, \frac{\partial f}{\partial y} \right)$$
 
 - **Meaning**:
+
   - Points in the direction of **steepest ascent**.
   - Magnitude tells how fast the function increases in that direction.
   - In physics, gradient of potential = **force field**.
@@ -164,6 +165,7 @@ $$J = \begin{bmatrix} \frac{\partial u}{\partial x} & \frac{\partial u}{\partial
 $$\det(J) = 2x^2 + y$$
 
 - **Interpretation**:
+
   - Describes local **scaling, rotation, and shear**.
   - Determinant = **area scaling factor** in 2D (volume in 3D).
   - If $\det(J) = 0$, transformation collapses dimensions (not invertible).
